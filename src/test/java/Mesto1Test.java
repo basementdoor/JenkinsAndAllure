@@ -10,7 +10,7 @@ import static org.hamcrest.Matchers.equalTo;
 
 public class Mesto1Test {
 
-    String bearerToken = "сюда_впиши_свой_токен";
+    String bearerToken = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTJlY2Q2NDFjNjE2ZTAwM2QwNzJlMDQiLCJpYXQiOjE3MDI4MzE3MTQsImV4cCI6MTcwMzQzNjUxNH0.4XKpFQUd5TkYFmvlqwR95ItzpdAJPq6zfOehKZ5_Zuk";
 
     @Before
     public void setUp() {
